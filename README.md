@@ -1,3 +1,3 @@
 # cicdpipelines
 echo "nCodeIT World"
-echo "Hello"
+echo "Hell"
